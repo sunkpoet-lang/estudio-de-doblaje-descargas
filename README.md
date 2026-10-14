@@ -11,6 +11,10 @@ Aquí se publican los instaladores de **Estudio de Doblaje**, la app de escritor
 
 Para saber qué hace la app, visita el [sitio](https://sunkpoet-lang.github.io/estudio-de-doblaje/), que incluye la guía de uso en español y en inglés.
 
+![Estudio de Doblaje en macOS: pantalla de Time codes con Whisper](img/macos-time-codes.png)
+
+*Versión 2.8.0-beta.2 en macOS (Apple Silicon), pantalla de Time codes.*
+
 ## Descargar
 
 Ve a **[Releases](https://github.com/sunkpoet-lang/estudio-de-doblaje-descargas/releases/latest)** y baja el archivo de tu sistema:
