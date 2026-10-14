@@ -1,5 +1,12 @@
 # Estudio de Doblaje · descargas
 
+[![Versión estable](https://img.shields.io/github/v/release/sunkpoet-lang/estudio-de-doblaje-descargas?label=estable)](https://github.com/sunkpoet-lang/estudio-de-doblaje-descargas/releases/latest)
+[![Versión de prueba](https://img.shields.io/github/v/release/sunkpoet-lang/estudio-de-doblaje-descargas?include_prereleases&label=%C3%BAltima%20%28con%20pruebas%29)](https://github.com/sunkpoet-lang/estudio-de-doblaje-descargas/releases)
+[![Descargas](https://img.shields.io/github/downloads/sunkpoet-lang/estudio-de-doblaje-descargas/total?label=descargas)](https://github.com/sunkpoet-lang/estudio-de-doblaje-descargas/releases)
+[![Licencia del núcleo: GPL v3](https://img.shields.io/badge/n%C3%BAcleo-GPL--3.0-blue.svg)](#licencia)
+[![Módulo Pro](https://img.shields.io/badge/m%C3%B3dulo%20Pro-cerrado-red.svg)](#licencia)
+[![Plataformas](https://img.shields.io/badge/plataformas-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](#descargar)
+
 Aquí se publican los instaladores de **Estudio de Doblaje**, la app de escritorio para traductores de doblaje: time codes con Whisper, traducción sin internet con modelos locales y sincronización de guiones. Este repositorio no tiene código; solo guarda los *releases*.
 
 Para saber qué hace la app, visita el [sitio](https://sunkpoet-lang.github.io/estudio-de-doblaje/), que incluye la guía de uso en español y en inglés.
